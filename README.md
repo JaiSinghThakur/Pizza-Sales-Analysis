@@ -167,20 +167,3 @@ Pizza-Sales-Analysis/
 
 ---
 
-## 📊 Dashboard Screenshots
-
-### Pizza Sales Analysis Dashboard
-
-![Pizza Sales Analysis Dashboard](Pizza%20Sales%20Analysis.png)
-
-### Product Performance Analysis
-
-![Product Performance Analysis](Product%20performance%20analysis.png)
-
-### Key Business Insights
-
-![Key Business Insights](Key%20Business%20Insights.png)
-
-### Excel Pivot Table Analysis
-
-![Pivot Table Analysis](Pivot%20Table.png)
